@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For CarroRobo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CarroRobo	    KEYWORD1
+UltraSom	    KEYWORD1
+ServoMotor	    KEYWORD1
+SensorLinha 	KEYWORD1
+InfraVermelho	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+SetaMensagemSerial	KEYWORD2
+MensagemSerial      KEYWORD2
+SetaPinoEntrada     KEYWORD2
+SetaPinoSaida       KEYWORD2
+SetaAngulo          KEYWORD2
+SetaPinoEsquerda    KEYWORD2
+SetaPinoCentro      KEYWORD2
+SetaPinoDireita     KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+pino        LITERAL1
+CorLinha    LITERAL1
+CorPiso     LITERAL1
